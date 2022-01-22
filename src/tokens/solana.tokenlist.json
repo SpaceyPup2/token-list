@@ -79151,6 +79151,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "858kqHY892U63PqwYmkyqgoqQKQCPUAV7MDPACgNMDkf",
+      "symbol": "SPUP",
+      "name": "SpaceyPup",
+      "decimals": 0,
+      "logoURI": "hhttps://raw.githubusercontent.com/SpaceyPup/Final/main/SpaceyPup%20(1).png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
